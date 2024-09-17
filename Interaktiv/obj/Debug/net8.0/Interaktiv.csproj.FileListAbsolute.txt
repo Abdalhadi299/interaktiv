@@ -1,0 +1,15 @@
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfoInputs.cache
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.AssemblyInfo.cs
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.csproj.CoreCompileInputs.cache
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.sourcelink.json
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.exe
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.deps.json
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.runtimeconfig.json
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.dll
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\bin\Debug\net8.0\Interaktiv.pdb
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.dll
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\refint\Interaktiv.dll
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.pdb
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\Interaktiv.genruntimeconfig.cache
+c:\Users\abdalhadi.darkoushe\Desktop\programering 1\interaktiv\Interaktiv\obj\Debug\net8.0\ref\Interaktiv.dll
